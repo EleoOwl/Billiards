@@ -1,0 +1,13 @@
+D:\Documents_D\Billi\Billi\bin\Debug\Billi.exe.config
+D:\Documents_D\Billi\Billi\bin\Debug\Billi.exe
+D:\Documents_D\Billi\Billi\bin\Debug\Billi.pdb
+D:\Documents_D\Billi\Billi\obj\Debug\Billi.csprojAssemblyReference.cache
+D:\Documents_D\Billi\Billi\obj\Debug\Billi.Form1.resources
+D:\Documents_D\Billi\Billi\obj\Debug\Billi.Properties.Resources.resources
+D:\Documents_D\Billi\Billi\obj\Debug\Billi.csproj.GenerateResource.cache
+D:\Documents_D\Billi\Billi\obj\Debug\Billi.csproj.CoreCompileInputs.cache
+D:\Documents_D\Billi\Billi\obj\Debug\Billi.exe
+D:\Documents_D\Billi\Billi\obj\Debug\Billi.pdb
+D:\Documents_D\Billi\Billi\obj\Debug\Billi.Previev.resources
+D:\Documents_D\Billi\Billi\obj\Debug\Billi.Menu.resources
+D:\Documents_D\Billi\Billi\obj\Debug\Billi.BallOut.resources
