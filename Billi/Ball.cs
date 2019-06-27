@@ -92,9 +92,9 @@ namespace Billi
         public static void Collision(Ball a, Ball b) 
         {
             Vector normal = new Vector( a.X - b.X, a.Y - b.Y);
-          //  Vector tan  = new Vector(b.Y - a.Y, a.X - b.X);
-
-            double NX =Math.PI- Math.Acos(Vector.cosAlpha(normal, new Vector(1, 0)));
+            //  Vector tan  = new Vector(b.Y - a.Y, a.X - b.X);
+            double an = Math.Acos(Vector.cosAlpha(normal, new Vector(1, 0)));
+            double NX =Math.PI- an + Math.PI*(Vector.sinAlpha(normal, new Vector(0, 1))>0?1:0);
             a.V = a.V.Expand(-NX);
             b.V = b.V.Expand(-NX);
             //if (Vector.sinAlpha(normal, new Vector(1, 0)) > 0)
